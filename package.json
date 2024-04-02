@@ -1,7 +1,7 @@
 {
   "name": "to-do",
   "version": "0.1.0",
-  "homepage": "https://github.com/pablo-graham/ToDo_List",
+  "homepage": "https://pablo-graham.github.io/ToDo_List",
   "private": true,
   "scripts": {
     "predeploy" : "npm run build",
